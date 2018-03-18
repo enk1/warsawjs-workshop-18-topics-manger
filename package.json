@@ -1,0 +1,28 @@
+{
+  "name": "warsawjs-workshop-18-topics-manger",
+  "version": "1.0.0",
+  "description": "WarsawJS - Workshop 18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html --no-cache --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enk1/warsawjs-workshop-18-topics-manger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enk1/warsawjs-workshop-18-topics-manger/issues"
+  },
+  "homepage": "https://github.com/enk1/warsawjs-workshop-18-topics-manger#readme",
+  "keywords": [],
+  "dependencies": {
+    "bulma": "^0.6.2"
+  },
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
